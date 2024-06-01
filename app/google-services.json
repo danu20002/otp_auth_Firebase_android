@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461628861159",
+    "project_id": "incharadummy",
+    "storage_bucket": "incharadummy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461628861159:android:d1ae648aa1b9097d725042",
+        "android_client_info": {
+          "package_name": "com.danunaik.inchara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhws02V_IBr-8YQbmJMIWsFv3xcGbrH_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
